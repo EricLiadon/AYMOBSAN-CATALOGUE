@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AYMOBSAN-CATALOGUE/static/css/main.3a0d01ba.css",
-    "main.js": "/AYMOBSAN-CATALOGUE/static/js/main.b01147e7.js",
-    "static/js/453.5fae580c.chunk.js": "/AYMOBSAN-CATALOGUE/static/js/453.5fae580c.chunk.js",
+    "main.js": "/AYMOBSAN-CATALOGUE/static/js/main.92346ff2.js",
+    "static/js/453.7e482cbb.chunk.js": "/AYMOBSAN-CATALOGUE/static/js/453.7e482cbb.chunk.js",
     "static/media/53.jpg": "/AYMOBSAN-CATALOGUE/static/media/53.1611bf969b336bf03bbe.jpg",
     "static/media/17.jpg": "/AYMOBSAN-CATALOGUE/static/media/17.89558a72cf3506dd2674.jpg",
     "static/media/28.jpg": "/AYMOBSAN-CATALOGUE/static/media/28.b8afd8d1cb8a727308ff.jpg",
@@ -54,11 +54,11 @@
     "static/media/50.jpg": "/AYMOBSAN-CATALOGUE/static/media/50.3d5863dfd75515c5b49a.jpg",
     "index.html": "/AYMOBSAN-CATALOGUE/index.html",
     "main.3a0d01ba.css.map": "/AYMOBSAN-CATALOGUE/static/css/main.3a0d01ba.css.map",
-    "main.b01147e7.js.map": "/AYMOBSAN-CATALOGUE/static/js/main.b01147e7.js.map",
-    "453.5fae580c.chunk.js.map": "/AYMOBSAN-CATALOGUE/static/js/453.5fae580c.chunk.js.map"
+    "main.92346ff2.js.map": "/AYMOBSAN-CATALOGUE/static/js/main.92346ff2.js.map",
+    "453.7e482cbb.chunk.js.map": "/AYMOBSAN-CATALOGUE/static/js/453.7e482cbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a0d01ba.css",
-    "static/js/main.b01147e7.js"
+    "static/js/main.92346ff2.js"
   ]
 }
