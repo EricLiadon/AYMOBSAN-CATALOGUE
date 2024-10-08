@@ -1,0 +1,37 @@
+/* Button Styles */
+.category-selector button {
+  background-color: #836448; /* Green background */
+  border: none; /* Remove default border */
+  color: white; /* White text */
+  padding: 15px 32px; /* Padding inside the button */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Keep them in line */
+  font-size: 16px; /* Text size */
+  margin: 10px; /* Spacing between buttons */
+  cursor: pointer; /* Pointer cursor on hover */
+  border-radius: 8px; /* Rounded corners */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.category-selector button:hover {
+  background-color: #a52929; /* Darker green when hovering */
+}
+
+/* Button for active category */
+.category-selector .active {
+  background-color: #2196F3; /* Blue background for active category */
+}
+/* Style for the h1 element */
+h1 {
+  font-family: 'Arial', sans-serif; /* Use a clean, modern font */
+  color: #836448; /* Dark gray color */
+  font-size: 72px; /* Large font size */
+  text-align: center; /* Center the heading */
+  padding: 20px 0; /* Add space above and below the heading */
+  margin-bottom: 30px; /* Add space between the heading and the content below */
+  background: linear-gradient(to right, #836448, #836448); /* Gradient background */
+  -webkit-background-clip: text; /* Clip the background to text */
+  color: transparent; /* Make the text color transparent so gradient shows */
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Add subtle shadow to the text */
+}
